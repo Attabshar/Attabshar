@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Attabshar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--   print ("the best start ever!")
-<!---
-Attabshar/Attabshar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 👀 I’m a student at Alnilaan un
+- college engineering computer
+- i hope to be the best in my career 
+<!u r welcome in my page
+connect with me in
+attabshar899@gmail.com 
+Attabshar/Attabshar is a ✨ 
 --->
